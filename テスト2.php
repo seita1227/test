@@ -8,7 +8,7 @@
 	<p>ユーザー名：<br>
 	<input type="text" name="name"></p>
   <textarea name="msg" cols=40 rows=4>
- あいうえお
+ あいうえお5888888
    </textarea>
 	 <img src="test.png" alt="カエルのイラスト">
 
